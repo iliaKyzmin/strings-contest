@@ -1,4 +1,3 @@
-
 def good_string(n: int, k: int) -> str:
     """
     Parameters:
